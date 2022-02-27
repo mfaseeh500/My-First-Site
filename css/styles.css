@@ -29,14 +29,16 @@ h3 {
 }
 
 a {
-  color: #66BFBF;
+  color: #11999E;
 }
 
 img {
   margin-top: 50px;
   width: 15rem;
 }
-
+.copyright{
+  color: #EAF6F6;
+}
 .first-paragraph {
   display: inline-block;
 }
@@ -61,7 +63,12 @@ img {
 
 .middle {}
 
-.bottom {}
+.bottom {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom:  50px;
+  position: relative;
+}
 
 .lec-45 {
   text-decoration: underline;
